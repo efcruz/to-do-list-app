@@ -15,6 +15,7 @@ function newItem(){
     }
 
     //2. Crossing an item out:
+    // eslint-disable-next-line no-unused-vars
     function crossOut() {
         li.toggleClass('strike');
     }
